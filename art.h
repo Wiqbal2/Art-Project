@@ -1,4 +1,4 @@
-// UMBC - CMSC 341 - Fall 2022 - Proj0
+
 #ifndef ART_H
 #define ART_H
 #include <iostream>
