@@ -1,4 +1,3 @@
-// UMBC - CMSC 341 - Fall 2022 - Proj0
 #include "art.h"
 
 class Tester{
