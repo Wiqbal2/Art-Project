@@ -1,8 +1,6 @@
-// UMBC - CMSC 341 - Fall 2022 - Proj0
+
 #include "art.h"
 
-//Title : proj0
-//Date :  09/13/2022
 //Name : Waleed Iqbal
 //Description: This is the implemented art.cpp file which holds all the functions for use
 
